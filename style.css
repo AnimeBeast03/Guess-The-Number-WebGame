@@ -1,0 +1,26 @@
+body {
+  position: relative;
+  top: 5vh;
+  text-align: center;
+  font-family: "Times New Roman";
+}
+#title {
+  font-size: 50px;
+}
+#msg {
+  font-style: italic;
+  color: grey;
+}
+#inputBox {
+  height: 30px;
+  width: 100px;
+  font-size: 25px;
+  text-align: center;
+  position: relative;
+  top: 10px;
+}
+#btn {
+  height: 50px;
+  width: 100px;
+  font-size: 20px;
+}
