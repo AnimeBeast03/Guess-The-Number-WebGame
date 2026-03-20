@@ -29,5 +29,9 @@ The game provides hints like **Too High** or **Too Low** and shows remaining att
 ## 📷 Preview
 Simple number guessing game running in the browser.
 
+![](screenshots/screenshot3.jpg)
+![](screenshots/screenshot1.jpg)
+![](screenshots/screenshot2.jpg)
+
 ## 📂 Project Purpose
 This project was made for practicing **JavaScript logic and DOM manipulation**.
